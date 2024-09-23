@@ -6,9 +6,7 @@
   <title>prueba</title>
 </head>
 <body>
-<h1>
-Questions
-Visual Encoding
+<h1>Visual Encoding
 Graphical Perception
 Timevarying phenomena
 Agregate
@@ -23,6 +21,6 @@ Cartographic projection
 graduated symbol maps
 chloropleth
 Scannning
-network!</h1>
+network</h1>
 </body>
 </html>
