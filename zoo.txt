@@ -1,12 +1,4 @@
-<!DOCTYPE txt>
-<txt>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>prueba</title>
-</head>
-<body>
-<h1>Visual Encoding
+Visual Encoding
 Graphical Perception
 Timevarying phenomena
 Agregate
@@ -21,6 +13,4 @@ Cartographic projection
 graduated symbol maps
 chloropleth
 Scannning
-network</h1>
-</body>
-</html>
+network
